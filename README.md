@@ -1,8 +1,5 @@
 ### Hi I'm Shamali Bhosale👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on some data science projects to improve my knowledge on Data science domian
 - 🌱 I have entry level skills in machine learning, tableau and power BI
 - 🤔 I’m looking for help with deep learning concept
